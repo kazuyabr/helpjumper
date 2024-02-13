@@ -16,7 +16,7 @@
     "pixelsRounding": true,
     "projectUuid": "02fec9fe-114c-4a54-b8e0-41af6c350813",
     "scaleMode": "nearest",
-    "sizeOnStartupMode": "adaptWidth",
+    "sizeOnStartupMode": "",
     "templateSlug": "",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
@@ -63,14 +63,768 @@
     "currentPlatform": "GDevelop JS platform"
   },
   "resources": {
-    "resources": [],
+    "resources": [
+      {
+        "alwaysLoaded": false,
+        "file": "assets/tiled_Grass.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tiled_Grass.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Breakable Physics/Background/f0fcdea023107dc7c4263d38d52d5f6f74a5b779887760a1580a613f7f4b2af0_tiled_Grass.png",
+          "name": "tiled_Grass.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Dead_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Dead_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/47e04e4641aa3ca35551fb2434d441a7690b67c71a2c163a3fa11fca2393e821_Adventure Boy_Dead_1.png",
+          "name": "Adventure Boy_Dead_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Dead_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Dead_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/7fc96b94fa11593f4db7e624dae9e1a65dbf681080818f62ddd2b96ddf18117d_Adventure Boy_Dead_10.png",
+          "name": "Adventure Boy_Dead_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Dead_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Dead_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/da888824b8f7f2b149095223cfcb318ea5c081377e94bd1ccb9720f43af21e0d_Adventure Boy_Dead_2.png",
+          "name": "Adventure Boy_Dead_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Dead_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Dead_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/a2af3525ff4b05a8454c79ca42afab3bd61ca47ad98849670594e6078b47b4e7_Adventure Boy_Dead_3.png",
+          "name": "Adventure Boy_Dead_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Dead_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Dead_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/d4aa49f8c844f0749d9cd2e02fe9c49b3e35043651ec25e1e83410efa4a802cb_Adventure Boy_Dead_4.png",
+          "name": "Adventure Boy_Dead_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Dead_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Dead_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/0b92735efcdcba492e1d6460e2fc67e47d60aedc5b532b09af91e6f101972593_Adventure Boy_Dead_5.png",
+          "name": "Adventure Boy_Dead_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Dead_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Dead_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/949335ae6312b8e7bd2e4ea34038f5632287d17397f9a93090ef68110450cb28_Adventure Boy_Dead_6.png",
+          "name": "Adventure Boy_Dead_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Dead_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Dead_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/7fc96b94fa11593f4db7e624dae9e1a65dbf681080818f62ddd2b96ddf18117d_Adventure Boy_Dead_7.png",
+          "name": "Adventure Boy_Dead_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Dead_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Dead_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/7fc96b94fa11593f4db7e624dae9e1a65dbf681080818f62ddd2b96ddf18117d_Adventure Boy_Dead_8.png",
+          "name": "Adventure Boy_Dead_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Dead_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Dead_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/7fc96b94fa11593f4db7e624dae9e1a65dbf681080818f62ddd2b96ddf18117d_Adventure Boy_Dead_9.png",
+          "name": "Adventure Boy_Dead_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Idle_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Idle_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/18febcee9f0ab1dcf2dbf71720cd3158a0fb5682882d288e5ae752e7c0c44255_Adventure Boy_Idle_1.png",
+          "name": "Adventure Boy_Idle_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Idle_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Idle_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/63294b2f111bf9d4d9fa0e5f8312af89d9e9ef226d74bc249fbe36394ba681c9_Adventure Boy_Idle_10.png",
+          "name": "Adventure Boy_Idle_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Idle_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Idle_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/63294b2f111bf9d4d9fa0e5f8312af89d9e9ef226d74bc249fbe36394ba681c9_Adventure Boy_Idle_2.png",
+          "name": "Adventure Boy_Idle_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Idle_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Idle_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/7859969827be1cff42509628444457fde88166cdcbda2b5ff943798226744a97_Adventure Boy_Idle_3.png",
+          "name": "Adventure Boy_Idle_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Idle_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Idle_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/e267bfeaf48873cc11dde6ebe1aa249b993892cdcf29d868c978701ff661f660_Adventure Boy_Idle_4.png",
+          "name": "Adventure Boy_Idle_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Idle_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Idle_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/30041e320d6ce202c816c12e7957b35c1fa76f9d90b2a86fb8d905db05011194_Adventure Boy_Idle_5.png",
+          "name": "Adventure Boy_Idle_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Idle_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Idle_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/deda0495444cda61b5c3daabe23cab2e4d7172ef86a9c4afcbb8e8fa7e19d8b6_Adventure Boy_Idle_6.png",
+          "name": "Adventure Boy_Idle_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Idle_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Idle_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/30041e320d6ce202c816c12e7957b35c1fa76f9d90b2a86fb8d905db05011194_Adventure Boy_Idle_7.png",
+          "name": "Adventure Boy_Idle_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Idle_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Idle_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/e267bfeaf48873cc11dde6ebe1aa249b993892cdcf29d868c978701ff661f660_Adventure Boy_Idle_8.png",
+          "name": "Adventure Boy_Idle_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Idle_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Idle_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/7859969827be1cff42509628444457fde88166cdcbda2b5ff943798226744a97_Adventure Boy_Idle_9.png",
+          "name": "Adventure Boy_Idle_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Jump_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Jump_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/4da9e3972cd707fba5c212d4f26cb59e7cdd4c7e9addfe87d8d897cf1428f485_Adventure Boy_Jump_1.png",
+          "name": "Adventure Boy_Jump_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Jump_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Jump_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/f39bc2d24d998a8c75eb7ad3f1da3a48435d7b33154e78e6ef6564393ea362b2_Adventure Boy_Jump_10.png",
+          "name": "Adventure Boy_Jump_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Jump_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Jump_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/90eb8cf7dd6f6d591015b87dec0431282c1e32c108d432e993aa09adae7ad1ae_Adventure Boy_Jump_2.png",
+          "name": "Adventure Boy_Jump_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Jump_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Jump_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/f5853ef58a3ba3d75f9526f074d589acf0379d6e562300a24b1a40eabf5a31b6_Adventure Boy_Jump_3.png",
+          "name": "Adventure Boy_Jump_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Jump_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Jump_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/a213c733fd7a4ff2566477a73dacdd061bc5b486f5a9578ecf3cf8ddbd790e4f_Adventure Boy_Jump_4.png",
+          "name": "Adventure Boy_Jump_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Jump_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Jump_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/a213c733fd7a4ff2566477a73dacdd061bc5b486f5a9578ecf3cf8ddbd790e4f_Adventure Boy_Jump_5.png",
+          "name": "Adventure Boy_Jump_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Jump_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Jump_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/a213c733fd7a4ff2566477a73dacdd061bc5b486f5a9578ecf3cf8ddbd790e4f_Adventure Boy_Jump_6.png",
+          "name": "Adventure Boy_Jump_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Jump_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Jump_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/91bf74868cfaf7023ff9e5c27e121e804d53843b1242fc7ce6ea74892ac61f6b_Adventure Boy_Jump_7.png",
+          "name": "Adventure Boy_Jump_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Jump_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Jump_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/1583ec974504add9ae06157f66a81f6828392d136478e460948a0ecd26a222ef_Adventure Boy_Jump_8.png",
+          "name": "Adventure Boy_Jump_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Jump_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Jump_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/f39bc2d24d998a8c75eb7ad3f1da3a48435d7b33154e78e6ef6564393ea362b2_Adventure Boy_Jump_9.png",
+          "name": "Adventure Boy_Jump_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Run_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/6467f34c2178093dfe4212db5a41b450a79c4ea978ababc023bb7f9a56e4a469_Adventure Boy_Run_1.png",
+          "name": "Adventure Boy_Run_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Run_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Run_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/ad679191c519fa80b96e4e4374f7ba3786984ea05354034b4824334a69efdaea_Adventure Boy_Run_10.png",
+          "name": "Adventure Boy_Run_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Run_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/86bd60604935c6d77c9dc01b6b4c0e47b27d4bb4bbbcf322bf7e23da050ba97a_Adventure Boy_Run_2.png",
+          "name": "Adventure Boy_Run_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Run_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/85f41dbac1aba54fec895068857bfe134e877a1c0d28ba980b5a32d30711f585_Adventure Boy_Run_3.png",
+          "name": "Adventure Boy_Run_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Run_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/de3534c45d1fed0918b7a7a54fe4ba92b8a47c362a574f5729a0e81cfd448d9f_Adventure Boy_Run_4.png",
+          "name": "Adventure Boy_Run_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Run_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Run_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/92397b8cd11514f6a67c1e0c85a5968af4808315eea762b97b09e6b4982227b3_Adventure Boy_Run_5.png",
+          "name": "Adventure Boy_Run_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Run_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Run_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/cbe981e2347de9191962db70cf9748d711e83b571d4678abd87df47e06c005af_Adventure Boy_Run_6.png",
+          "name": "Adventure Boy_Run_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Run_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Run_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/6048a0de5e5c9d1548a4d392e9864418adff25f5f0ca55fec91aba698591ff79_Adventure Boy_Run_7.png",
+          "name": "Adventure Boy_Run_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Run_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Run_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/7688d599d48137c90f518f0a69ff7efee8d7b7aab154d8877b1324d3344cea5d_Adventure Boy_Run_8.png",
+          "name": "Adventure Boy_Run_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Run_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Run_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/ccafe05efdf29be671f34d4032d1d89e3aa7501cda985954a199914858193986_Adventure Boy_Run_9.png",
+          "name": "Adventure Boy_Run_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Slide_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Slide_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/05727c135a2580d14641ef4de22d93d78c8dd319cc8c8c3e4e89ff1bd0e8e700_Adventure Boy_Slide_1.png",
+          "name": "Adventure Boy_Slide_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Slide_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Slide_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/74f3d0c796ff85f753c6c11ad48d136404a133830e663c2a33c7bf63ad9bdeae_Adventure Boy_Slide_10.png",
+          "name": "Adventure Boy_Slide_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Slide_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Slide_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/a9c36fdf3dc482bb235153eeb8f853af9e3fdf394123fd6f2ac7fa558992ebf4_Adventure Boy_Slide_2.png",
+          "name": "Adventure Boy_Slide_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Slide_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Slide_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/eefca95e78f71f6d4f1e34b85a0ac386bbbf1ecce8f96f1e1c6597ee5810ea01_Adventure Boy_Slide_3.png",
+          "name": "Adventure Boy_Slide_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Slide_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Slide_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/cfe4862aa5e74fd146bd6ce52e27d75514b6a68de20958022a18c13c8d06d604_Adventure Boy_Slide_4.png",
+          "name": "Adventure Boy_Slide_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Slide_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Slide_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/6ecce80306dc35f4352ceb2f95b3cfb6f05d18b9ada897b2f28cddf9f9148917_Adventure Boy_Slide_5.png",
+          "name": "Adventure Boy_Slide_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Slide_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Slide_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/24f83e04581f35a9506b705f8728f5ed8498c09018e9477a03f2b8c0096bfed5_Adventure Boy_Slide_6.png",
+          "name": "Adventure Boy_Slide_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Slide_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Slide_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/2beb21c8496f600f6182368d6c9ede8fff5ac4ae5f960a2c2e5619484bc6cca3_Adventure Boy_Slide_7.png",
+          "name": "Adventure Boy_Slide_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Slide_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Slide_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/025af243d99f696943dcf99314ecee37adaff0a5e5c39fb5256aee0fdd0c49f5_Adventure Boy_Slide_8.png",
+          "name": "Adventure Boy_Slide_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Adventure Boy_Slide_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Adventure Boy_Slide_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/pzUH Pack/Characters/Adventure Boy/6dec2408c53bb887f13e00fde8a4d34e26bc6eedfa68b248dd93e89f4087afe8_Adventure Boy_Slide_9.png",
+          "name": "Adventure Boy_Slide_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cloud 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cloud 1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Background Objects/Retina/85b0e6d046a9a1e13436b94863721bd6ba25a1f3e898802ce3e0df53d4b16fe6_cloud 1.png",
+          "name": "cloud 1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/cloud 7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "cloud 7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Generic Backgrounds/Background Objects/Retina/fda55a57b0d01e7a8dfb482c53fcf1310b3051ecc884f30d5dd6b0d586e261cf_cloud 7.png",
+          "name": "cloud 7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Platform 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Platform 1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Level/66b19bf24d3a8b17b3ed60270725247aa2f81719057f8e8775f43d739f4aa6ca_Platform 1.png",
+          "name": "Platform 1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Platform 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Platform 2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Level/263841133875f965ed1c49e7df6b55a16a11f237e21327e7d753aa83b8a87467_Platform 2.png",
+          "name": "Platform 2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Platform 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Platform 3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Level/5ecd17a9e3e39e01e953dfbcaf8eee5c98b920e07b04900e745cbb9be5efbd3c_Platform 3.png",
+          "name": "Platform 3.png"
+        }
+      },
+      {
+        "file": "assets/fonts/Pulang.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "assets\\fonts\\Pulang.ttf",
+        "userAdded": true
+      }
+    ],
     "resourceFolders": []
   },
   "objects": [],
   "objectsFolderStructure": {
     "folderName": "__ROOT"
   },
-  "objectsGroups": [],
+  "objectsGroups": [
+    {
+      "name": "Plataforma",
+      "objects": [
+        {
+          "name": "Grass"
+        },
+        {
+          "name": "Platform1"
+        },
+        {
+          "name": "Platform2"
+        },
+        {
+          "name": "Platform3"
+        }
+      ]
+    }
+  ],
   "variables": [],
   "layouts": [
     {
@@ -93,7 +847,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.35534345588169836,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -153,15 +907,15 @@
       "behaviorsSharedData": []
     },
     {
-      "b": 209,
+      "b": 249,
       "disableInputWhenNotFocused": true,
       "mangledName": "game",
       "name": "game",
-      "r": 209,
+      "r": 94,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 209,
+      "v": 255,
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
@@ -172,17 +926,2576 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.367325754505882,
         "windowMask": false
       },
       "objectsGroups": [],
       "variables": [],
-      "instances": [],
-      "objects": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 58,
+          "layer": "",
+          "name": "Grass",
+          "persistentUuid": "805464a2-3c63-4493-8d74-18153ca307c4",
+          "width": 823,
+          "x": -56,
+          "y": 1233,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "AdventureBoy",
+          "persistentUuid": "06274483-25c5-422e-9da5-fa9d9c776dd0",
+          "width": 0,
+          "x": 315,
+          "y": 1094,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 89,
+          "layer": "",
+          "name": "Cloud1",
+          "persistentUuid": "23ffa6f6-1296-4735-9db1-ed60f3387e69",
+          "width": 149,
+          "x": 96,
+          "y": 262,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 89,
+          "layer": "",
+          "name": "Cloud1",
+          "persistentUuid": "b528c4a7-6d7a-47ae-b29e-5148f8b8f14c",
+          "width": 149,
+          "x": 536,
+          "y": 264,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 89,
+          "layer": "",
+          "name": "Cloud1",
+          "persistentUuid": "6872a7c9-b520-423b-b246-b1b6fca317ab",
+          "width": 149,
+          "x": 14,
+          "y": 26,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 89,
+          "layer": "",
+          "name": "Cloud1",
+          "persistentUuid": "34d05f8b-28fa-4deb-9d11-db867e44073a",
+          "width": 149,
+          "x": 301,
+          "y": 103,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Platform1",
+          "persistentUuid": "54c54a2c-62d8-4671-b126-8a0ecb57f2d3",
+          "width": 0,
+          "x": 22,
+          "y": 433,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Platform2",
+          "persistentUuid": "69aa2271-e560-44df-bea8-11e37c41d6a4",
+          "width": 0,
+          "x": 447,
+          "y": 679,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Platform3",
+          "persistentUuid": "6da8a65f-4245-4a02-9ea1-472ffdf5190a",
+          "width": 0,
+          "x": 45,
+          "y": 969,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "name": "Cloud7",
+          "persistentUuid": "25858bf3-c5fb-4f1f-b9eb-229cbe8153c9",
+          "width": 0,
+          "x": -561,
+          "y": 30,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "f0926a9a8e012773b58cf5b87932ceb16a157a80709cd8f9054955e6cd3cde9b",
+          "height": 128,
+          "name": "Grass",
+          "texture": "tiled_Grass.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 128,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": false,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "2828c96756b56ce834a1a88b8b07b7cdc22d07cd17023905cf5f5ef71ccf4279",
+          "name": "AdventureBoy",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 1000,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Idle_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Idle_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Idle_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Idle_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Idle_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Idle_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Run_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Run_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Run_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Run_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Run_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Run_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Run_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Run_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Run_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Run_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Jump",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Jump_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Jump_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Jump_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Jump_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Jump_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Jump_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Jump_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Jump_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Jump_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Jump_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Dead",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Dead_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Dead_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Dead_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Dead_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Dead_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Dead_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Dead_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Dead_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Dead_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Dead_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Slide",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Slide_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Slide_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Slide_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Slide_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Slide_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Slide_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Slide_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Slide_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Slide_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Adventure Boy_Slide_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 0
+                          },
+                          {
+                            "x": 78,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "9d759267df798a81024259ac3e9b2b2d9caf7ad71604f165ba354c5106f9b9a7",
+          "name": "Cloud1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "checkCollisionMask": true,
+              "name": "Arrastável",
+              "type": "DraggableBehavior::Draggable"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "cloud 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 406,
+                            "y": 0
+                          },
+                          {
+                            "x": 406,
+                            "y": 242
+                          },
+                          {
+                            "x": 0,
+                            "y": 242
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "91f487bffd6ec5218a023efc52c7c4a80bec65660e159781f64a61d297bf5e8f",
+          "name": "Cloud7",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "cloud 7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 432,
+                            "y": 0
+                          },
+                          {
+                            "x": 432,
+                            "y": 278
+                          },
+                          {
+                            "x": 0,
+                            "y": 278
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "b04ab75a7d10caef09d6a14ded13accdf371a642e23076a7243f6391b76d6fc3",
+          "name": "Platform1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "destroy",
+              "type": "boolean",
+              "value": false
+            },
+            {
+              "folded": true,
+              "name": "count",
+              "type": "number",
+              "value": 0
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "checkCollisionMask": true,
+              "name": "Arrastável",
+              "type": "DraggableBehavior::Draggable"
+            },
+            {
+              "canBeGrabbed": false,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Platform 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 9.5,
+                            "y": 13
+                          },
+                          {
+                            "x": 260,
+                            "y": 11.5
+                          },
+                          {
+                            "x": 259.5,
+                            "y": 71
+                          },
+                          {
+                            "x": 10.5,
+                            "y": 72.5
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "0315227ad77285856f654c4336e9d79212745e3fec89b01274b5607259ce74b7",
+          "name": "Platform2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "checkCollisionMask": true,
+              "name": "Arrastável",
+              "type": "DraggableBehavior::Draggable"
+            },
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Platform 2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 274,
+                            "y": 14
+                          },
+                          {
+                            "x": 222,
+                            "y": 93.5
+                          },
+                          {
+                            "x": 44.5,
+                            "y": 92
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "730fb3bc38d4d602234dc715aa67399c0afb5d8c20ea53fd7ebee81496c6f262",
+          "name": "Platform3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "checkCollisionMask": true,
+              "name": "Arrastável",
+              "type": "DraggableBehavior::Draggable"
+            },
+            {
+              "canBeGrabbed": false,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Platform 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16.5,
+                            "y": 14.5
+                          },
+                          {
+                            "x": 210.5,
+                            "y": 15
+                          },
+                          {
+                            "x": 205,
+                            "y": 75.5
+                          },
+                          {
+                            "x": 27.5,
+                            "y": 67.5
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Pontuação",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Pontos: ",
+          "font": "assets\\fonts\\Pulang.ttf",
+          "textAlignment": "left",
+          "characterSize": 40,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Pontos: ",
+            "font": "assets\\fonts\\Pulang.ttf",
+            "textAlignment": "left",
+            "characterSize": 40,
+            "color": "0;0;0"
+          }
+        }
+      ],
       "objectsFolderStructure": {
-        "folderName": "__ROOT"
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "Grass"
+          },
+          {
+            "objectName": "AdventureBoy"
+          },
+          {
+            "objectName": "Cloud1"
+          },
+          {
+            "objectName": "Cloud7"
+          },
+          {
+            "objectName": "Platform1"
+          },
+          {
+            "objectName": "Platform2"
+          },
+          {
+            "objectName": "Platform3"
+          },
+          {
+            "objectName": "Pontuação"
+          }
+        ]
       },
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "BuiltinExternalLayouts::CreateObjectsFromExternalLayout"
+              },
+              "parameters": [
+                "",
+                "\"UID\"",
+                "0",
+                "0",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Lógica Personagem",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Link",
+              "include": {
+                "includeConfig": 0
+              },
+              "target": "Player"
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Lógica Mundo",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Link",
+              "include": {
+                "includeConfig": 0
+              },
+              "target": "Mundo"
+            }
+          ],
+          "parameters": []
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -227,13 +3540,304 @@
               "booleanParameters": {}
             }
           ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "UID",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
         }
       ],
-      "behaviorsSharedData": []
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Platform",
+          "type": "PlatformBehavior::PlatformBehavior"
+        },
+        {
+          "name": "PlatformerObject",
+          "type": "PlatformBehavior::PlatformerObjectBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
     }
   ],
-  "externalEvents": [],
+  "externalEvents": [
+    {
+      "associatedLayout": "game",
+      "lastChangeTimeStamp": 0,
+      "name": "Player",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Pule sozinho"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "AdventureBoy",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::SimulateJumpKey"
+              },
+              "parameters": [
+                "AdventureBoy",
+                "PlatformerObject"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "associatedLayout": "game",
+      "lastChangeTimeStamp": 0,
+      "name": "Mundo",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Plataforma é destruida"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Platform1",
+                "destroy",
+                "True"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Platform1",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "Platform1",
+                "count",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Lógica para destruir plataforma",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "AdventureBoy",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "AdventureBoy",
+                    "Platform1",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ModVarObjet"
+                  },
+                  "parameters": [
+                    "Platform1",
+                    "count",
+                    "+",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "VarObjet"
+                  },
+                  "parameters": [
+                    "Platform1",
+                    "count",
+                    ">=",
+                    "3"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetObjectVariableAsBoolean"
+                  },
+                  "parameters": [
+                    "Platform1",
+                    "destroy",
+                    "True"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        }
+      ]
+    }
+  ],
   "eventsFunctionsExtensions": [],
-  "externalLayouts": [],
+  "externalLayouts": [
+    {
+      "associatedLayout": "game",
+      "name": "UID",
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "UID",
+          "name": "Pontuação",
+          "persistentUuid": "bbaeda37-206c-4d81-9c07-1589dbbad727",
+          "width": 0,
+          "x": 11,
+          "y": 24,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "editionSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.39251611754882226,
+        "windowMask": false
+      }
+    }
+  ],
   "externalSourceFiles": []
 }
