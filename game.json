@@ -66,7 +66,7 @@
     "resources": [
       {
         "alwaysLoaded": false,
-        "file": "assets/tiled_Grass.png",
+        "file": "assets/tiled_Grass2.png",
         "kind": "image",
         "metadata": "",
         "name": "tiled_Grass.png",
@@ -79,7 +79,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Dead_1.png",
+        "file": "assets/Adventure Boy_Dead_11.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Dead_1.png",
@@ -92,7 +92,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Dead_10.png",
+        "file": "assets/Adventure Boy_Dead_12.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Dead_10.png",
@@ -105,7 +105,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Dead_2.png",
+        "file": "assets/Adventure Boy_Dead_13.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Dead_2.png",
@@ -118,7 +118,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Dead_3.png",
+        "file": "assets/Adventure Boy_Dead_14.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Dead_3.png",
@@ -131,7 +131,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Dead_4.png",
+        "file": "assets/Adventure Boy_Dead_15.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Dead_4.png",
@@ -144,7 +144,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Dead_5.png",
+        "file": "assets/Adventure Boy_Dead_16.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Dead_5.png",
@@ -157,7 +157,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Dead_6.png",
+        "file": "assets/Adventure Boy_Dead_17.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Dead_6.png",
@@ -170,7 +170,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Dead_7.png",
+        "file": "assets/Adventure Boy_Dead_18.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Dead_7.png",
@@ -183,7 +183,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Dead_8.png",
+        "file": "assets/Adventure Boy_Dead_19.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Dead_8.png",
@@ -196,7 +196,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Dead_9.png",
+        "file": "assets/Adventure Boy_Dead_20.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Dead_9.png",
@@ -209,7 +209,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Idle_1.png",
+        "file": "assets/Adventure Boy_Idle_11.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Idle_1.png",
@@ -222,7 +222,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Idle_10.png",
+        "file": "assets/Adventure Boy_Idle_12.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Idle_10.png",
@@ -235,7 +235,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Idle_2.png",
+        "file": "assets/Adventure Boy_Idle_13.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Idle_2.png",
@@ -248,7 +248,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Idle_3.png",
+        "file": "assets/Adventure Boy_Idle_14.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Idle_3.png",
@@ -261,7 +261,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Idle_4.png",
+        "file": "assets/Adventure Boy_Idle_15.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Idle_4.png",
@@ -274,7 +274,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Idle_5.png",
+        "file": "assets/Adventure Boy_Idle_16.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Idle_5.png",
@@ -287,7 +287,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Idle_6.png",
+        "file": "assets/Adventure Boy_Idle_17.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Idle_6.png",
@@ -300,7 +300,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Idle_7.png",
+        "file": "assets/Adventure Boy_Idle_18.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Idle_7.png",
@@ -313,7 +313,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Idle_8.png",
+        "file": "assets/Adventure Boy_Idle_19.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Idle_8.png",
@@ -326,7 +326,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Idle_9.png",
+        "file": "assets/Adventure Boy_Idle_20.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Idle_9.png",
@@ -339,7 +339,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Jump_1.png",
+        "file": "assets/Adventure Boy_Jump_11.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Jump_1.png",
@@ -352,7 +352,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Jump_10.png",
+        "file": "assets/Adventure Boy_Jump_12.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Jump_10.png",
@@ -365,7 +365,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Jump_2.png",
+        "file": "assets/Adventure Boy_Jump_13.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Jump_2.png",
@@ -378,7 +378,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Jump_3.png",
+        "file": "assets/Adventure Boy_Jump_14.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Jump_3.png",
@@ -391,7 +391,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Jump_4.png",
+        "file": "assets/Adventure Boy_Jump_15.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Jump_4.png",
@@ -404,7 +404,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Jump_5.png",
+        "file": "assets/Adventure Boy_Jump_16.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Jump_5.png",
@@ -417,7 +417,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Jump_6.png",
+        "file": "assets/Adventure Boy_Jump_17.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Jump_6.png",
@@ -430,7 +430,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Jump_7.png",
+        "file": "assets/Adventure Boy_Jump_18.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Jump_7.png",
@@ -443,7 +443,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Jump_8.png",
+        "file": "assets/Adventure Boy_Jump_19.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Jump_8.png",
@@ -456,7 +456,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Jump_9.png",
+        "file": "assets/Adventure Boy_Jump_20.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Jump_9.png",
@@ -469,7 +469,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Run_1.png",
+        "file": "assets/Adventure Boy_Run_11.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Run_1.png",
@@ -482,7 +482,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Run_10.png",
+        "file": "assets/Adventure Boy_Run_12.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Run_10.png",
@@ -495,7 +495,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Run_2.png",
+        "file": "assets/Adventure Boy_Run_13.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Run_2.png",
@@ -508,7 +508,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Run_3.png",
+        "file": "assets/Adventure Boy_Run_14.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Run_3.png",
@@ -521,7 +521,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Run_4.png",
+        "file": "assets/Adventure Boy_Run_15.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Run_4.png",
@@ -534,7 +534,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Run_5.png",
+        "file": "assets/Adventure Boy_Run_16.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Run_5.png",
@@ -547,7 +547,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Run_6.png",
+        "file": "assets/Adventure Boy_Run_17.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Run_6.png",
@@ -560,7 +560,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Run_7.png",
+        "file": "assets/Adventure Boy_Run_18.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Run_7.png",
@@ -573,7 +573,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Run_8.png",
+        "file": "assets/Adventure Boy_Run_19.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Run_8.png",
@@ -586,7 +586,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Run_9.png",
+        "file": "assets/Adventure Boy_Run_20.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Run_9.png",
@@ -599,7 +599,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Slide_1.png",
+        "file": "assets/Adventure Boy_Slide_11.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Slide_1.png",
@@ -612,7 +612,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Slide_10.png",
+        "file": "assets/Adventure Boy_Slide_12.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Slide_10.png",
@@ -625,7 +625,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Slide_2.png",
+        "file": "assets/Adventure Boy_Slide_13.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Slide_2.png",
@@ -638,7 +638,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Slide_3.png",
+        "file": "assets/Adventure Boy_Slide_14.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Slide_3.png",
@@ -651,7 +651,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Slide_4.png",
+        "file": "assets/Adventure Boy_Slide_15.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Slide_4.png",
@@ -664,7 +664,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Slide_5.png",
+        "file": "assets/Adventure Boy_Slide_16.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Slide_5.png",
@@ -677,7 +677,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Slide_6.png",
+        "file": "assets/Adventure Boy_Slide_17.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Slide_6.png",
@@ -690,7 +690,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Slide_7.png",
+        "file": "assets/Adventure Boy_Slide_18.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Slide_7.png",
@@ -703,7 +703,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Slide_8.png",
+        "file": "assets/Adventure Boy_Slide_19.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Slide_8.png",
@@ -716,7 +716,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Adventure Boy_Slide_9.png",
+        "file": "assets/Adventure Boy_Slide_20.png",
         "kind": "image",
         "metadata": "",
         "name": "Adventure Boy_Slide_9.png",
@@ -729,7 +729,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/cloud 1.png",
+        "file": "assets/cloud2.png",
         "kind": "image",
         "metadata": "",
         "name": "cloud 1.png",
@@ -742,7 +742,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/cloud 7.png",
+        "file": "assets/cloud8.png",
         "kind": "image",
         "metadata": "",
         "name": "cloud 7.png",
@@ -755,7 +755,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Platform 1.png",
+        "file": "assets/Platform2.png",
         "kind": "image",
         "metadata": "",
         "name": "Platform 1.png",
@@ -768,7 +768,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Platform 2.png",
+        "file": "assets/Platform3.png",
         "kind": "image",
         "metadata": "",
         "name": "Platform 2.png",
@@ -781,7 +781,7 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Platform 3.png",
+        "file": "assets/Platform4.png",
         "kind": "image",
         "metadata": "",
         "name": "Platform 3.png",
@@ -793,7 +793,7 @@
         }
       },
       {
-        "file": "assets/fonts/Pulang.ttf",
+        "file": "assets/Pulang.ttf",
         "kind": "font",
         "metadata": "",
         "name": "assets\\fonts\\Pulang.ttf",
@@ -930,7 +930,26 @@
         "windowMask": false
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "folded": true,
+          "name": "azul",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "name": "verde",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "folded": true,
+          "name": "vermelho",
+          "type": "number",
+          "value": 0
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -974,7 +993,7 @@
           "width": 149,
           "x": 96,
           "y": 262,
-          "zOrder": 3,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -988,9 +1007,9 @@
           "name": "Cloud1",
           "persistentUuid": "b528c4a7-6d7a-47ae-b29e-5148f8b8f14c",
           "width": 149,
-          "x": 536,
-          "y": 264,
-          "zOrder": 3,
+          "x": 552,
+          "y": 259,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1006,7 +1025,7 @@
           "width": 149,
           "x": 14,
           "y": 26,
-          "zOrder": 3,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1022,7 +1041,7 @@
           "width": 149,
           "x": 301,
           "y": 103,
-          "zOrder": 3,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1050,8 +1069,8 @@
           "name": "Platform2",
           "persistentUuid": "69aa2271-e560-44df-bea8-11e37c41d6a4",
           "width": 0,
-          "x": 447,
-          "y": 679,
+          "x": 437,
+          "y": 643,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -1080,8 +1099,8 @@
           "name": "Cloud7",
           "persistentUuid": "25858bf3-c5fb-4f1f-b9eb-229cbe8153c9",
           "width": 0,
-          "x": -561,
-          "y": 30,
+          "x": -553,
+          "y": 22,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -1100,10 +1119,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": false,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -1118,6 +1137,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
@@ -1130,9 +1151,7 @@
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
               "maxSpeed": 250,
-              "name": "PlatformerObject",
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "useLegacyTrajectory": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
@@ -3011,9 +3030,9 @@
           "effects": [],
           "behaviors": [
             {
-              "checkCollisionMask": true,
               "name": "Arrastável",
-              "type": "DraggableBehavior::Draggable"
+              "type": "DraggableBehavior::Draggable",
+              "checkCollisionMask": true
             }
           ],
           "animations": [
@@ -3149,15 +3168,15 @@
           "effects": [],
           "behaviors": [
             {
-              "checkCollisionMask": true,
               "name": "Arrastável",
-              "type": "DraggableBehavior::Draggable"
+              "type": "DraggableBehavior::Draggable",
+              "checkCollisionMask": true
             },
             {
-              "canBeGrabbed": false,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -3222,15 +3241,15 @@
           "effects": [],
           "behaviors": [
             {
-              "checkCollisionMask": true,
               "name": "Arrastável",
-              "type": "DraggableBehavior::Draggable"
+              "type": "DraggableBehavior::Draggable",
+              "checkCollisionMask": true
             },
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -3295,15 +3314,15 @@
           "effects": [],
           "behaviors": [
             {
-              "checkCollisionMask": true,
               "name": "Arrastável",
-              "type": "DraggableBehavior::Draggable"
+              "type": "DraggableBehavior::Draggable",
+              "checkCollisionMask": true
             },
             {
-              "canBeGrabbed": false,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": false,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -3430,6 +3449,22 @@
         ]
       },
       "events": [
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SceneBackground"
+              },
+              "parameters": [
+                "",
+                "ToString(Variable(vermelho))+\";\"+ToString(Variable(green))+\";\"+ToString(Variable(azul))"
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
